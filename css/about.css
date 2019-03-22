@@ -130,9 +130,16 @@ header nav a:hover {
     font-size: 15px;
     padding: 9px;
     border: 2px solid black;
-    margin-top: 10px;
+    margin-top: 15px;
     width: 200px;
     border-radius: 3px
+
+}
+
+.second img{
+    width: 330px;
+    height: 250px;
+    margin-bottom: 15px;
 
 }
 
